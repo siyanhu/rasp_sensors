@@ -1,0 +1,41 @@
+C:\Users\me\Documents\Visual Studio 2010\Projects\mySerial\mySerial\bin\Debug\mySerial.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\mySerial\mySerial\bin\Debug\mySerial.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\mySerial\mySerial\obj\x86\Debug\mySerial.Form1.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\mySerial\mySerial\obj\x86\Debug\mySerial.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\mySerial\mySerial\obj\x86\Debug\mySerial.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\mySerial\mySerial\obj\x86\Debug\mySerial.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\mySerial\mySerial\obj\x86\Debug\mySerial.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\mySerial\mySerial\obj\x86\Debug\mySerial.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\bin\Debug\mySerial.exe
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\bin\Debug\mySerial.pdb
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\obj\x86\Debug\mySerial.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\obj\x86\Debug\mySerial.Form1.resources
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\obj\x86\Debug\mySerial.Properties.Resources.resources
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\obj\x86\Debug\mySerial.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\obj\x86\Debug\mySerial.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\obj\x86\Debug\mySerial.exe
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\mySerial\mySerial\obj\x86\Debug\mySerial.pdb
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\bin\Debug\mySerial.exe
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\bin\Debug\mySerial.pdb
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.Form1.resources
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.Properties.Resources.resources
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.exe
+C:\Users\lenovo\Desktop\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.pdb
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\bin\Debug\mySerial.exe
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\bin\Debug\mySerial.pdb
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.csprojAssemblyReference.cache
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.Form1.resources
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.Properties.Resources.resources
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.csproj.GenerateResource.cache
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.csproj.CoreCompileInputs.cache
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.exe
+D:\HKUST\EESM6900_Kalman_Filter\源码\mySerial\mySerial\obj\x86\Debug\mySerial.pdb
+K:\源码\mySerial\mySerial\obj\x86\Debug\mySerial.csprojAssemblyReference.cache
+K:\源码\mySerial\mySerial\obj\x86\Debug\mySerial.exe
+K:\源码\mySerial\mySerial\obj\x86\Debug\mySerial.pdb
+C:\Users\ZHANGZHENG\Desktop\mySerial\mySerial\obj\x86\Debug\mySerial.csprojAssemblyReference.cache
+C:\Users\ZHANGZHENG\Desktop\mySerial\mySerial\obj\x86\Debug\mySerial.exe
+C:\Users\ZHANGZHENG\Desktop\mySerial\mySerial\obj\x86\Debug\mySerial.pdb
